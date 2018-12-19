@@ -1,1 +1,11 @@
-theme: jekyll-theme-tactile
+# basic options
+title: Quickstart ownCloud installation
+author: Sunil Jadhav
+email: write2sunil@gmail.com
+description: A site to get you started on ownCloud.
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
